@@ -1,0 +1,5 @@
+name: auto-respawn
+version: 0.1
+main: me.sanhak.ar.main.Main
+commands:
+  frreload:
